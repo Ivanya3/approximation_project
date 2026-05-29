@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/Montserrat-MediumItalic.ttf</file>
+        <file>fonts/Montserrat-Medium.ttf</file>
+        <file>fonts/Montserrat-Bold.ttf</file>
+    </qresource>
+</RCC>
